@@ -85,7 +85,6 @@ body {
 
 .btn-float-left {
     float: left;
-    padding: 10px 8px;
 }
 @media (max-width: 767px) {
     .navbar-default .navbar-nav .open .dropdown-menu > li > a {
