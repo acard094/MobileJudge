@@ -3,7 +3,7 @@ body {
   font-family: "Helvetica Neue",HelveticaNeue,"Helvetica-Neue",Helvetica,"BBAlpha Sans",sans-serif;
 }
 
-.header_bar{
+.header-bar{
   background-color: #2196f3;
   border-color: #1565c0;
 }
@@ -36,4 +36,10 @@ body {
 
 .input-upper{
 	border-bottom: 1px solid #ddd;
+}
+
+.btn-lightblue{
+  color: #fff;
+  background-color: #2196f3;
+  border-color: #1565c0;
 }
