@@ -19,6 +19,10 @@ body {
   float:left;
   padding: 10px 10px;
 }
+.bar-btn-right{
+  float:right;
+  padding: 10px 10px;
+}
 
 .body-app{
 	background-color: #eee;
@@ -27,7 +31,9 @@ body {
 .footer-bar{
   background-color: #2196f3;
   border-color: #1565c0;
-
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 .input-app{
