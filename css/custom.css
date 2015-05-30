@@ -1,20 +1,18 @@
 body {
   padding-top: 50px;
   font-family: "Helvetica Neue",HelveticaNeue,"Helvetica-Neue",Helvetica,"BBAlpha Sans",sans-serif;
-  font-size: 104%;
 }
 
 .header_bar{
-  background-color: #1468a2;
-  border-color: #000;
+  background-color: #2196f3;
+  border-color: #1565c0;
 }
 
 .bar-title{
   color: #fff;
-  text-shadow: rgba(0,0,0,0.5) 0 -0.08em 0;
-  font-size: 2.1em;
   font-weight: bold;
   padding: 8px 8px;
+  font-size: 2.2em;
 }
 
 .body-app{
